@@ -2,13 +2,26 @@
 
 **Notebook:** [notebooks/iceland-ml/lab3_gee_sentinel2_acquisition.ipynb](../../notebooks/iceland-ml/lab3_gee_sentinel2_acquisition.ipynb)
 
-## ⏱️ Time Allocation (2 hours)
-- **10 min:** Introduction to Google Earth Engine
-- **20 min:** GEE authentication and setup
-- **30 min:** AOI definition and image collection query
-- **25 min:** Scene filtering and visualization
-- **25 min:** Export and download workflow
-- **10 min:** Advanced filtering (optional) + Q&A
+## ⏱️ Time Allocation (3 × 40 min modules with breaks)
+
+**Module 1 (40 min):** GEE Setup & Authentication
+- 10 min: Introduction to Google Earth Engine
+- 25 min: GEE authentication and setup
+- 5 min: Test GEE connection
+
+**Break (10 min)**
+
+**Module 2 (40 min):** Data Discovery
+- 15 min: Define AOI in Iceland
+- 20 min: Query Sentinel-2 image collection
+- 5 min: Filter by cloud cover
+
+**Break (10 min)**
+
+**Module 3 (40 min):** Visualization & Export
+- 15 min: Visualize RGB and false color
+- 20 min: Export and download workflow
+- 5 min: Advanced filtering (optional)
 
 ## Goals
 ### Core (Essential)

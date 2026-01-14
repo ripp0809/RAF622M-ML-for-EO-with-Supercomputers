@@ -2,13 +2,26 @@
 
 **Notebook:** [notebooks/finetune.ipynb](../../notebooks/finetune.ipynb)
 
-## ⏱️ Time Allocation (2 hours)
-- **15 min:** Introduction to TerraTorch and foundation models
-- **25 min:** Configure TerraTorch for Iceland dataset
-- **30 min:** Prepare data and configuration files
-- **30 min:** Run fine-tuning (SLURM submission)
-- **15 min:** Monitor training and checkpoints
-- **5 min:** Compare with baseline and wrap-up
+## ⏱️ Time Allocation (3 × 40 min modules with breaks)
+
+**Module 1 (40 min):** Foundation Models Setup
+- 15 min: Introduction to TerraTorch and foundation models
+- 20 min: Explore available models
+- 5 min: Choose model for fine-tuning
+
+**Break (10 min)**
+
+**Module 2 (40 min):** Configuration
+- 15 min: Configure TerraTorch for dataset
+- 20 min: Prepare data and config files
+- 5 min: Validate configuration
+
+**Break (10 min)**
+
+**Module 3 (40 min):** Fine-tuning & Analysis
+- 15 min: Submit fine-tuning job (SLURM)
+- 20 min: Monitor training and checkpoints
+- 5 min: Compare with baseline and wrap-up
 
 ## Goals
 ### Core (Essential)

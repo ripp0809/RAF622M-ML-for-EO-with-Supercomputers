@@ -2,13 +2,26 @@
 
 **Notebook:** [notebooks/iceland-ml/lab5.1_baseline_training.ipynb](../../notebooks/iceland-ml/lab5.1_baseline_training.ipynb)
 
-## ⏱️ Time Allocation (2 hours)
-- **15 min:** Introduction to CNN architectures
-- **25 min:** Build CNN model with PyTorch
-- **30 min:** Implement DataLoaders and training loop
-- **25 min:** Training on GPU with SLURM
-- **20 min:** Monitor training and checkpointing
-- **5 min:** Wrap-up and next steps
+## ⏱️ Time Allocation (3 × 40 min modules with breaks)
+
+**Module 1 (40 min):** Model Architecture
+- 15 min: Introduction to CNN architectures
+- 20 min: Build CNN model with PyTorch
+- 5 min: Test model forward pass
+
+**Break (10 min)**
+
+**Module 2 (40 min):** Training Setup
+- 15 min: Implement DataLoaders
+- 20 min: Create training loop
+- 5 min: Test training on small batch
+
+**Break (10 min)**
+
+**Module 3 (40 min):** GPU Training & Monitoring
+- 15 min: Submit GPU job via SLURM
+- 20 min: Monitor training and checkpointing
+- 5 min: Wrap-up and next steps
 
 ## Goals
 ### Core (Essential)

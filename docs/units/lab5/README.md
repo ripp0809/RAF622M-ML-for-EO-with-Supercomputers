@@ -2,13 +2,26 @@
 
 **Notebook:** [notebooks/iceland-ml/lab4_preprocessing_patches.ipynb](../../notebooks/iceland-ml/lab4_preprocessing_patches.ipynb)
 
-## ⏱️ Time Allocation (2 hours)
-- **10 min:** Introduction to patch-based learning
-- **30 min:** Patch extraction implementation
-- **25 min:** Class balancing strategies
-- **25 min:** Data persistence and validation
-- **20 min:** Dataset statistics and quality checks
-- **10 min:** Advanced techniques (optional) + Q&A
+## ⏱️ Time Allocation (3 × 40 min modules with breaks)
+
+**Module 1 (40 min):** Patch Extraction Basics
+- 10 min: Introduction to patch-based learning
+- 25 min: Implement patch extraction
+- 5 min: Test with sample data
+
+**Break (10 min)**
+
+**Module 2 (40 min):** Class Balancing & Quality
+- 15 min: Class balancing strategies
+- 20 min: Patch quality filtering
+- 5 min: Validate distribution
+
+**Break (10 min)**
+
+**Module 3 (40 min):** Persistence & Validation
+- 15 min: Save patches (NumPy/NPZ)
+- 20 min: Dataset statistics and checks
+- 5 min: Advanced techniques (optional)
 
 ## Goals
 ### Core (Essential)

@@ -2,13 +2,26 @@
 
 **Notebook:** [notebooks/iceland-ml/lab1_judoor_hpc_access.ipynb](../../notebooks/iceland-ml/lab1_judoor_hpc_access.ipynb)
 
-## ⏱️ Time Allocation (2 hours)
-- **15 min:** Introduction + Judoor account setup
-- **30 min:** SSH key configuration and first connection
-- **30 min:** Filesystem exploration and SLURM basics
-- **25 min:** Hands-on exercises and troubleshooting
-- **15 min:** Advanced topics (optional) + Q&A
-- **5 min:** Wrap-up and next steps
+## ⏱️ Time Allocation (3 × 40 min modules with breaks)
+
+**Module 1 (40 min):** Setup & Account Creation
+- 10 min: Introduction to Judoor and HPC
+- 25 min: Judoor account setup and SSH key generation
+- 5 min: Test SSH connection
+
+**Break (10 min)**
+
+**Module 2 (40 min):** Filesystem & Environment
+- 15 min: Filesystem layout (HOME/PROJECT/SCRATCH)
+- 20 min: Workspace directory creation
+- 5 min: Navigate and check disk usage
+
+**Break (10 min)**
+
+**Module 3 (40 min):** SLURM & Practice
+- 15 min: SLURM basics and commands
+- 15 min: Hands-on exercises
+- 10 min: Optional advanced topics (SSH config, tmux)
 
 ## Goals
 ### Core (Essential)

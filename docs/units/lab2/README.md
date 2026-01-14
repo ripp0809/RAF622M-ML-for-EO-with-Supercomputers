@@ -2,13 +2,26 @@
 
 **Notebook:** [notebooks/iceland-ml/lab2_jupyter_jsc_git.ipynb](../../notebooks/iceland-ml/lab2_jupyter_jsc_git.ipynb)
 
-## ⏱️ Time Allocation (2 hours)
-- **10 min:** Introduction and Jupyter-JSC overview
-- **25 min:** Launch Jupyter-JSC and environment setup
-- **35 min:** Git fundamentals and repository cloning
-- **30 min:** Python virtual environments and kernels
-- **15 min:** Hands-on practice with notebooks
-- **5 min:** Wrap-up and next steps
+## ⏱️ Time Allocation (3 × 40 min modules with breaks)
+
+**Module 1 (40 min):** Jupyter-JSC Setup
+- 10 min: Introduction to Jupyter-JSC
+- 25 min: Launch session and interface overview
+- 5 min: Create first notebook and test
+
+**Break (10 min)**
+
+**Module 2 (40 min):** Git Fundamentals
+- 15 min: Git basics and workflow
+- 20 min: Clone course repository
+- 5 min: Configure Git identity
+
+**Break (10 min)**
+
+**Module 3 (40 min):** Virtual Environments
+- 15 min: Create Python virtual environment
+- 15 min: Register custom Jupyter kernel
+- 10 min: Hands-on practice with notebooks
 
 ## Goals
 ### Core (Essential)

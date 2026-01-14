@@ -2,13 +2,26 @@
 
 **Notebook:** [notebooks/iceland-ml/lab5.2_model_evaluation.ipynb](../../notebooks/iceland-ml/lab5.2_model_evaluation.ipynb)
 
-## ⏱️ Time Allocation (2 hours)
-- **10 min:** Introduction to evaluation metrics
-- **20 min:** Load model and generate predictions
-- **30 min:** Calculate metrics (accuracy, precision, recall, F1)
-- **30 min:** Confusion matrix and visualization
-- **20 min:** Error analysis and insights
-- **10 min:** Report generation and next steps
+## ⏱️ Time Allocation (3 × 40 min modules with breaks)
+
+**Module 1 (40 min):** Metrics & Predictions
+- 10 min: Introduction to evaluation metrics
+- 25 min: Load model and generate predictions
+- 5 min: Quick accuracy check
+
+**Break (10 min)**
+
+**Module 2 (40 min):** Confusion Matrix Analysis
+- 15 min: Calculate all metrics
+- 20 min: Create and analyze confusion matrix
+- 5 min: Per-class insights
+
+**Break (10 min)**
+
+**Module 3 (40 min):** Error Analysis & Reporting
+- 15 min: Error analysis and patterns
+- 20 min: Generate comprehensive report
+- 5 min: Recommendations and next steps
 
 ## Goals
 ### Core (Essential)

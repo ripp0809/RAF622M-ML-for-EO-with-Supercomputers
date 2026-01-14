@@ -2,13 +2,26 @@
 
 **Notebook:** [notebooks/iceland-ml/lab4_preprocessing_patches.ipynb](../../notebooks/iceland-ml/lab4_preprocessing_patches.ipynb)
 
-## ⏱️ Time Allocation (2 hours)
-- **10 min:** Introduction to preprocessing pipeline
-- **25 min:** Load and inspect Sentinel-2 imagery
-- **30 min:** Normalization techniques and implementation
-- **30 min:** Label alignment and creation
-- **20 min:** Train/val/test splits and persistence
-- **5 min:** Wrap-up and validation
+## ⏱️ Time Allocation (3 × 40 min modules with breaks)
+
+**Module 1 (40 min):** Data Loading & Inspection
+- 10 min: Introduction to preprocessing pipeline
+- 25 min: Load and inspect Sentinel-2 imagery
+- 5 min: Validate data quality
+
+**Break (10 min)**
+
+**Module 2 (40 min):** Normalization & Labels
+- 20 min: Normalization techniques and implementation
+- 15 min: Label alignment with CORINE
+- 5 min: Verify alignment
+
+**Break (10 min)**
+
+**Module 3 (40 min):** Splits & Persistence
+- 15 min: Create train/val/test splits (70/15/15)
+- 20 min: Save normalized data and parameters
+- 5 min: Validate and wrap-up
 
 ## Goals
 ### Core (Essential)
